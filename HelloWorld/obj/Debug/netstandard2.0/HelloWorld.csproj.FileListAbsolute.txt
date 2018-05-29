@@ -1,0 +1,9 @@
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/Users/chen/MyWork/Xamarin/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb

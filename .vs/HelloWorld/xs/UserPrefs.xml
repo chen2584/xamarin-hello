@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1845484A-0C9D-4484-B80A-81E1DCCB03B4}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HelloWorld/MyPage3.xaml" Line="14" Column="15" />
+      <File FileName="HelloWorld/MyPage3.xaml.cs" Line="12" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E40D4C55-6A3E-45AF-B55D-6B250A86819C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.Android PreferredExecutionTarget="Android.Nexus_4_API_22" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
